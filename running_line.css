@@ -1,0 +1,5 @@
+#running_line_table {width:198px; height:63px; background:url(tablo.gif) no-repeat 0 0;}
+#running_line_border {padding:3px 2px 3px 2px; background:#000; position:relative; top:6px; float:left;}
+#running_line_cells {position:relative; width:180px; height:36px; background:#000; background:url(diod.gif); overflow:hidden;}
+#running_line_string {position:absolute; left:344px;}
+#running_line_string div {width:3px; height:3px; background:#9be718; position:absolute; overflow:hidden;}
